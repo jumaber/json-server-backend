@@ -1,29 +1,107 @@
 {
-  "projects": [
+  "users": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "first_name": "Townie",
+      "last_name": "Lamborne",
+      "email": "tlamborne0@google.co.uk",
+      "gender": "Male",
+      "ip_address": "141.147.211.78"
     },
+    {
+      "id": 2,
+      "first_name": "Sofie",
+      "last_name": "Deathridge",
+      "email": "sdeathridge1@printfriendly.com",
+      "gender": "Female",
+      "ip_address": "29.22.89.127"
+    },
+    {
+      "id": 3,
+      "first_name": "Eda",
+      "last_name": "MacKibbon",
+      "email": "emackibbon2@usda.gov",
+      "gender": "Female",
+      "ip_address": "179.77.22.255"
+    },
+    {
+      "id": 4,
+      "first_name": "Leighton",
+      "last_name": "Penticost",
+      "email": "lpenticost3@free.fr",
+      "gender": "Male",
+      "ip_address": "15.237.146.67"
+    },
+    {
+      "id": 5,
+      "first_name": "Irwinn",
+      "last_name": "Crumby",
+      "email": "icrumby4@youku.com",
+      "gender": "Male",
+      "ip_address": "2.62.188.148"
+    },
+    {
+      "id": 6,
+      "first_name": "Orelie",
+      "last_name": "McPhail",
+      "email": "omcphail5@squarespace.com",
+      "gender": "Female",
+      "ip_address": "141.206.179.226"
+    },
+    {
+      "id": 7,
+      "first_name": "Eb",
+      "last_name": "O'Cooney",
+      "email": "eocooney6@e-recht24.de",
+      "gender": "Male",
+      "ip_address": "185.125.141.122"
+    },
+    {
+      "id": 8,
+      "first_name": "Seth",
+      "last_name": "O'Leagham",
+      "email": "soleagham7@shutterfly.com",
+      "gender": "Bigender",
+      "ip_address": "160.171.120.27"
+    },
+    {
+      "id": 9,
+      "first_name": "Morgen",
+      "last_name": "Whitcher",
+      "email": "mwhitcher8@moonfruit.com",
+      "gender": "Male",
+      "ip_address": "254.132.39.211"
+    },
+    {
+      "id": 10,
+      "first_name": "Matias",
+      "last_name": "Pady",
+      "email": "mpady9@fc2.com",
+      "gender": "Male",
+      "ip_address": "0.40.90.115"
+    }
+  ],
+  "projects": [
     {
       "id": 2,
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "id": "3",
+      "title": "Testing Again",
+      "description": "Do I work now?",
+      "userId": 3
+    },
+    {
+      "id": "4",
+      "title": "Testing Again_!1",
+      "description": "Do I work now?",
+      "userId": 2
     }
   ],
   "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
-    },
     {
       "id": 3,
       "projectId": 2,
